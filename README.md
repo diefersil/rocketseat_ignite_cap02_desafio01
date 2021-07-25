@@ -16,14 +16,14 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 - Exibição de mensagens de erro
 - Entre outros
 
-Para mais detalhes, [acesse a nota criada no Notion](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12).
+
 
 ## 📥 Instalação e execução
 
 Faça um clone desse repositório e acesse o diretório.
 
-```bash
-$ git clone git@github.com:LeeonardoVargas/ignite-desafio-02.git && cd ignite-desafio-02
+
+$ git clone https://github.com/diefersil/rocketseat_ignite_cap01_desafio01
 
 # Instalando as dependências
 $ yarn
